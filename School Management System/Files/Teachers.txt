@@ -1,0 +1,90 @@
+
+  ***********************************************************
+
+                          TEACHER                           
+
+  ***********************************************************
+
+  First Name                |              Noman
+
+  Last Name                 |              Shafi
+
+  Department                |              Computer Science
+
+  ID                        |              
+
+  Regisration Date          |              20/12/2010
+
+  Gender                    |              M
+
+  Contact No                |              03034511600
+
+  Salary                    |              120000
+
+  Qualifications            |              BSCS, MSCS, PhD.
+
+  Blood Group               |              B+
+
+  Address                   |              Faisalabad, Punjab, Pakistan.
+
+  ***********************************************************
+
+  ***********************************************************
+
+                          TEACHER                           
+
+  ***********************************************************
+
+  First Name                |              Saba
+
+  Last Name                 |              Naseem
+
+  Department                |              Electric Engineering
+
+  ID                        |              
+
+  Regisration Date          |              19/09/2015
+
+  Gender                    |              F
+
+  Contact No                |              03454039881
+
+  Salary                    |              110000
+
+  Qualifications            |              BSCS, MSCS.
+
+  Blood Group               |              A+
+
+  Address                   |              Faisalabad, Punjab, Pakistan.
+
+  ***********************************************************
+
+  ***********************************************************
+
+                          TEACHER                           
+
+  ***********************************************************
+
+  First Name                |              Hamza
+
+  Last Name                 |              Ali
+
+  Department                |              Electric Engineering
+
+  ID                        |              CS-453
+
+  Regisration Date          |              12/03/2020
+
+  Gender                    |              M
+
+  Contact No                |              10000000
+
+  Salary                    |              1.2e+06
+
+  Qualifications            |              MATRIC
+
+  Blood Group               |              B+
+
+  Address                   |              Punjab
+
+  ***********************************************************

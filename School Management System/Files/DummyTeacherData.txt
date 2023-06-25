@@ -1,0 +1,32 @@
+Noman
+Shafi
+Computer Science
+CS-123
+Noman.Shafi@nu.edu.pk
+1234
+20/12/2010
+03034511600
+M
+Faisalabad, Punjab, Pakistan.
+BSCS, MSCS, PhD.
+B+
+120000.00
+Programming Fundamentals
+Introduction to ICT
+COAL
+Saba
+Naseem
+Electric Engineering
+CS-456
+Saba.Naseem@nu.edu.pk
+4567
+19/09/2015
+03454039881
+F
+Faisalabad, Punjab, Pakistan.
+BSCS, MSCS.
+A+
+110000.00
+Introduction to ICT
+Calculus & Analytical Geometry
+Data Structure

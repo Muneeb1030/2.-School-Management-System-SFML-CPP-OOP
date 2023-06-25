@@ -1,0 +1,34 @@
+Computer Science
+10:30-11:30 Programming Fndamentals
+11:30-01:30 COAL
+01:30-02:30 Data Structure
+03:30-04:30 Calculus & Analytical Geometry
+01:30-03:30 Introduction to ICT
+
+Electric Engineering
+01:30-03:30 Digital Logic Design
+03:30-04:30 Engineering Drawing
+01:30-02:30 Physics for Engineers
+11:30-01:30 Engineering Workshop
+10:30-11:30 Linear Circuit Analysis
+
+Software Engineering
+10:30-11:30 Programming Fndamentals
+11:30-01:30 Object Oriented Programing
+01:30-02:30 Discrete Structures
+03:30-04:30 ISE
+01:30-03:30 Software Design and Analysis
+
+Business
+01:30-03:30 Business Math – I
+03:30-04:30 IT in Business
+01:30-02:30 Fundamentals of Accounting
+11:30-01:30 Fundamentals of Management
+10:30-11:30 Marketing Management
+
+Social Sciences
+10:30-11:30 Sociology
+11:30-01:30 Islamic Studies/Ethics
+01:30-02:30 Pakistan Studies
+03:30-04:30 Human Resource Management
+01:30-03:30 English – I

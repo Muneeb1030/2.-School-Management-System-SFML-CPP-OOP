@@ -1,0 +1,30 @@
+Computer Science
+1. Programming Fundamentals.
+2. Introduction to ICT.
+3. Calculus & Analytical Geometry.
+4. COAL.
+5. Data Structure.
+Electric Engineering
+1. Digital Logic Design
+2. Engineering Drawing.
+3. Physics for Engineers.
+4. Engineering Workshop.
+5. Linear Circuit Analysis.
+Software Engineering
+1. Programming Fundamentals.
+2. Object Oriented Programing.
+3. Discrete Structures.
+4. ISE.
+5. Software Design and Analysis.
+Business
+1. Business Math – I.
+2. IT in Business.
+3. Fundamentals of Accounting.
+4. Fundamentals of Management.
+5. Marketing Management.
+Social Sciences
+1. Sociology.
+2. Islamic Studies/Ethics.
+3. Pakistan Studies.
+4. Human Resource Management.
+5. English – I.
