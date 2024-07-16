@@ -63,7 +63,7 @@ Students also have their own dedicated interface within the School Management Sy
 Clone the Repository: 
 
 ```bash
-git clone https://github.com/your_username/school-management-system.git
+https://github.com/Muneeb1030/School-Management-System.git
 
 cd school-management-system
 ```
